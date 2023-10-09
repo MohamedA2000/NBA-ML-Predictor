@@ -59,6 +59,7 @@ input_data = ...
 predictions = model.predict(input_data)
 ```
 
+
 ## Dependencies
 This project relies on the following Python libraries and packages:
 
