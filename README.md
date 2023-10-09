@@ -57,8 +57,9 @@ input_data = ...
 
 # Make predictions
 predictions = model.predict(input_data)
+```
 
-Dependencies
+## Dependencies
 This project relies on the following Python libraries and packages:
 
 Playwright: For web scraping NBA game data.
@@ -68,5 +69,6 @@ pandas: For data manipulation.
 numpy: For numerical operations.
 Install these dependencies using pip:
 
+```
 pip install playwright beautifulsoup4 scikit-learn pandas numpy
-
+```
